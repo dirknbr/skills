@@ -9,6 +9,7 @@ Your are given an academic paper and you need to these steps
 - check whether the model suits the causal graph
 - check for observed and unobserved confounders
 - check for colliders, mediators
+- did they use a randomised treatment
 - report back to the user whether the model is causally robust and unbiased
 
 For example you might read a paper where they explain wage as a function
